@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image: URL("hOye.gif");
+    background-position:center;
+    background-size:cover;
+}
+.myCanvas
+{
+   border-width: 10px;
+   border-style: ridge;
+   border-color: darkviolet;
+   background-image: URL(BirthdayImage.jpg);
+   background-position:center;
+   background-size:contain;
+}
+.button1{
+    color: yellow;
+    border-color: black;
+    border-style: ridge;
+}
